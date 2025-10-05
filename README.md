@@ -1,12 +1,13 @@
 # Airbnb_EDA
-“This repo explores Airbnb booking data through exploratory data analysis (EDA): cleaning, visualizations, uncovering trends in bookings, pricing, cancellations, and guest behavior. It aims to deliver actionable insights and support data-driven decisions in short-term rental business.”
+
 **EDA – Airbnb Bookings Analysis**
-**Overview**
+
+**1.Overview**
 
 This project presents a detailed Exploratory Data Analysis (EDA) of Airbnb booking data to uncover patterns, trends, and key business insights.
 It focuses on understanding guest behavior, pricing dynamics, and factors affecting occupancy and cancellations in the short-term rental market.
 
-**Objectives**
+**2.Objectives**
 
 Analyze Airbnb data to identify key drivers of booking and pricing.
 
@@ -16,7 +17,7 @@ Explore relationships between price, availability, and reviews.
 
 Provide actionable insights for better revenue management and customer experience.
 
-**Dataset**
+**3.Dataset**
 
 The dataset contains Airbnb listing details such as:
 
@@ -32,7 +33,7 @@ Reviews per Month, Calculated Host Listings Count
 
 (Source: Public Airbnb dataset via Kaggle / InsideAirbnb)
 
-**Methodology**
+**4.Methodology**
 
 Data Cleaning:
 
@@ -56,7 +57,7 @@ Trends in reviews, availability, and demand.
 
 Seasonal or location-based booking behaviors.
 
-**Tech Stack**
+**5.Tech Stack**
 
 Language: Python
 
@@ -64,7 +65,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Environment: Jupyter Notebook
 
-**Key Insights**
+**6.Key Insights**
 
 Prices vary significantly based on location and room type.
 
@@ -74,7 +75,7 @@ Some neighborhoods show clear signs of seasonal demand.
 
 Minimum nights and availability strongly influence total bookings.
 
-**Future Improvements**
+**7.Future Improvements**
 
 Add time-series forecasting for booking trends.
 
@@ -82,6 +83,6 @@ Incorporate sentiment analysis from guest reviews.
 
 Build interactive dashboards using Power BI or Tableau.
 
-**Conclusion**
+**8.Conclusion**
 
 This analysis provides a strong foundation for understanding how data can guide pricing strategies, host decisions, and customer engagement in the Airbnb ecosystem.
